@@ -45,7 +45,16 @@ a:hover {
   background-size: cover;
   position: relative;
 }
-
+.citation {
+  font-size: la;
+  text-align: center;
+  line-height: 30px;
+  height: 160px;
+}
+.citation span {
+  line-height: 50px;
+  color: rgba(0, 0, 0, 0.6);
+}
 .bloc .container {
   padding-left: 0;
   padding-right: 0;
@@ -691,7 +700,7 @@ a {
 }
 
 p {
-  font-size: 11px;
+  font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -719,12 +728,14 @@ p {
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 26px;
   line-height: 1.4em;
+  font-weight: bold;
+  margin: 20px;
 }
 
 h3 {
-  font-size: 15px;
+  font-size: 20px;
   text-transform: uppercase;
   font-weight: 700;
   color: #333333 !important;
@@ -825,14 +836,6 @@ h4 {
 
 .bg-dots-bg {
   background-image: url("img/dots-bg.png");
-}
-
-.bg-lines-h2-bg {
-  background-image: url("img/lines-h2-bg.png");
-}
-
-.bg-banniere {
-  background-image: url("img/agence-la-panthere.jpg");
 }
 
 .bg-presentation {
