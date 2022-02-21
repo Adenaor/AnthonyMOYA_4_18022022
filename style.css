@@ -709,6 +709,9 @@ p {
   color: rgba(0, 0, 0, 0.7) !important;
   text-align: justify;
 }
+#bloc-7 button:hover {
+  background-color: #364577 !important;
+}
 
 .tight-width-whitespace {
   max-width: 600px;
