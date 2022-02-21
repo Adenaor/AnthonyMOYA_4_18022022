@@ -9,7 +9,10 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+li:hover {
+  border-bottom: 1px solid black;
+  margin-bottom: -1px;
+}
 a,
 button {
   transition: all 0.3s ease-in-out;
