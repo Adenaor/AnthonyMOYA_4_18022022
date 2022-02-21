@@ -306,6 +306,12 @@ a:hover {
 #bloc-6 {
   background-color: #2e3757;
 }
+.fa {
+  transition: transform 300ms ease-in-out;
+}
+.fa:hover {
+  transform: scale(1.2);
+}
 
 .navbar {
   margin-bottom: 0;
