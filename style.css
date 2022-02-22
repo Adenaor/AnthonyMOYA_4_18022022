@@ -835,7 +835,7 @@ footer .fa {
 footer .fa:hover {
   transform: scale(1.2);
 }
-footer h4 {
+footer p {
   text-shadow: 4px 3px 4px #333333;
 }
 
