@@ -774,10 +774,6 @@ h4 {
   margin-top: 24px;
 }
 
-.white {
-  color: #ffffff !important;
-}
-
 .portfolio-thumb {
   margin-bottom: 24px;
 }
@@ -811,15 +807,16 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  background-color: #fabc70;
 }
 
 .tc-white {
-  color: #f3bc7a !important;
+  color: #fabc70 !important;
 }
 
 .btn-atomic-tangerine {
-  background: #f3bd7ad2;
+  background-color: #fabc70;
+
   color: #343641 !important;
 }
 
