@@ -834,8 +834,8 @@ h4 {
   color: #cccccc !important;
 }
 
-.fa {
-  font-size: 48px;
+footer .fa {
+  font-size: 48px !important;
 }
 footer h4 {
   text-shadow: 4px 3px 4px #333333;
