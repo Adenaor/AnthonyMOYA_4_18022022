@@ -45,6 +45,7 @@ a:hover {
   background-size: cover;
   position: relative;
 }
+
 .citation {
   border-left: #333333b7 2px solid;
   padding: 20px;
@@ -840,6 +841,7 @@ h4 {
 .ltc-atomic-tangerine:hover {
   color: #c27956 !important;
 }
+
 .white {
   color: #fff !important;
 }
