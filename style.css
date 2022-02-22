@@ -840,7 +840,9 @@ h4 {
 .ltc-atomic-tangerine:hover {
   color: #c27956 !important;
 }
-
+.white {
+  color: #fff !important;
+}
 .bg-presentation {
   background-image: url("img/image-de-presentation.webp");
 }
