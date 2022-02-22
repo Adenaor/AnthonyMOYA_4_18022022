@@ -309,12 +309,6 @@ a:hover {
 #bloc-6 {
   background-color: #2e3757;
 }
-.fa {
-  transition: transform 300ms ease-in-out;
-}
-.fa:hover {
-  transform: scale(1.2);
-}
 
 .navbar {
   margin-bottom: 0;
@@ -836,6 +830,10 @@ h4 {
 
 footer .fa {
   font-size: 48px !important;
+  transition: transform 300ms ease-in-out;
+}
+footer .fa:hover {
+  transform: scale(1.2);
 }
 footer h4 {
   text-shadow: 4px 3px 4px #333333;
