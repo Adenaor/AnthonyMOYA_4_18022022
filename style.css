@@ -309,7 +309,9 @@ a:hover {
 #bloc-6 {
   background-color: #2e3757;
 }
-
+#bloc-8 p {
+  color: #333333 !important;
+}
 .navbar {
   margin-bottom: 0;
   z-index: 1;
@@ -834,9 +836,6 @@ footer .fa {
 }
 footer .fa:hover {
   transform: scale(1.2);
-}
-footer p {
-  text-shadow: 4px 3px 4px #333333;
 }
 
 .white {
