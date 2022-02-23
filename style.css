@@ -33,6 +33,10 @@ a:hover {
   z-index: 100000;
   background: #ffffff url("img/pageload-spinner.gif") no-repeat center center;
 }
+#bloc-1-hero img {
+  width: 100px;
+  height: 100px;
+}
 #bloc-4-portfolio img {
   width: 270px;
   height: 270px;
